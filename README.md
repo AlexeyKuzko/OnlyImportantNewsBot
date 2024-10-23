@@ -1,6 +1,8 @@
 # OnlyImportantNewsBot
 for Telegram.
 
+pretty sure that this repo will soon be replaced with https://github.com/AlexeyKuzko/nyan
+
 git clone https://github.com/AlexeyKuzko/OnlyImportantNewsBot
 cd OnlyImportantNewsBot
 python3 -m venv /venv
